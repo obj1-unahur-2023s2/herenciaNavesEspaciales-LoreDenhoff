@@ -1,6 +1,5 @@
+import naveBase.*
 
-test "testX" {
-
-	assert.that(true)
-
+describe "Test de naves"{
+	
 }
